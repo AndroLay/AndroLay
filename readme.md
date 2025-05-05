@@ -16,8 +16,7 @@ I'm an Informatics Engineering student at Universitas Sam Ratulangi, passionate 
 `Python` | `C++` | `JavaScript` | `React` | `TailwindCSS` | `Ionic` | `Flutter` | `MySQL`
 
 📫 **Let's connect!**  
-[Email](mailto:androlay30@gmail.com) *(ganti dengan URL asli jika ada)*
-
+[Email](mailto:androlay30@gmail.com)
 ---
 
 > _"Building solutions one project at a time."_  
