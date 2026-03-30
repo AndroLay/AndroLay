@@ -7,7 +7,6 @@ I'm an Informatics Engineering student at Universitas Sam Ratulangi, passionate 
 ---
 
 🧠 **What I’m Learning:**
-- Advanced AI & Deep Learning  
 - Clean Architecture in Web/Mobile Development  
 
 ---
