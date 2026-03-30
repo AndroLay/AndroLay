@@ -1,15 +1,14 @@
-### 👋 Hi, I'm Andro Lay!
+### 👋 Hi!
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Informatics+Engineering+Student;Web+%26+Mobile+Developer;AI+%26+Deep+Learning+Enthusiast;Creative+Tech+Solutions" alt="Typing SVG" />
 
-I'm an Informatics Engineering student at Universitas Sam Ratulangi, passionate about **programming**, **web development**, and **creative tech solutions**.
+I'm an Informatics Engineering student at Universitas Sam Ratulangi, passionate about **Programming**.
 
 ---
 
 🧠 **What I’m Learning:**
 - Advanced AI & Deep Learning  
 - Clean Architecture in Web/Mobile Development  
-- Project Management with Jira & GitHub Projects  
 
 ---
 
