@@ -1,0 +1,1 @@
+Temporary, non-sensitive file used only to verify the GitHub-mediated ChatGPT ↔ Codex comment relay. No credentials or private project data.
